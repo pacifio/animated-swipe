@@ -1,22 +1,36 @@
 {
   "name": "animated-swipe",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A react native component for creating tinder like animated swipe",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "react-native",
+    "animated",
+    "swiper",
+    "component",
+    "animated-component"
+  ],
+  "author": "Adib Mohsin",
+  "license": "MIT",
   "dependencies": {
     "prop-types": "^15.7.2"
   },
   "peerDependencies": {
     "react": "^16.8.6",
     "react-native": "^0.59.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pacifio/animated-swipe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pacifio/animated-swipe/issues"
+  },
+  "homepage": "https://github.com/pacifio/animated-swipe"
 }
