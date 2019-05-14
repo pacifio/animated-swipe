@@ -2,9 +2,9 @@
 
 A react component for creating a tinder like swiping view . Created using the raw <code>Animated, PanResponder</code> module . It has been tested accros different devices .
 
-<div style="text-align:center;" >
-  <video src="./example.mov" type="video/mp4" ></video>
-</div>
+# Example
+
+Please take a look at this [video](https://d3a1eqpdtt5fg4.cloudfront.net/items/1Y0q100U133W2q0d2i0A/example.mov) for an example
 
 ## Table of contents
 
